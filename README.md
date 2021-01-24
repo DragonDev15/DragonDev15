@@ -1,5 +1,5 @@
 ### Hi There! 
-
+I'm Dragon_15. I am the Owner & Developer of Dynamo, Here is some info about me!
 - 🔭 I’m currently working on My Bot Dynamo! [Click Here](https://www.dynamobot.xyz/about) to read more!
 - 🌱 I’m currently learning `HTML5` & `CSS`
 - 🤔 I’m looking for help with Exploring `Python`
@@ -10,14 +10,23 @@
 
 #### About Me:
 My Projects:
-- Dynamo | Main Bot Regular Update, Links Below! 80k+ Members Watching 
-- Onni's Utilites | Utility Bot for Onni's Themepark (700+ Members)
-  
-### Some Links:
-###### My Bot Links:
-- [Dynamo Website](https://www.dynamobot.xyz)
-- [Dynamo Support](https://discord.com/invite/QhdZ5a3)
-- [Dynamo Invite](https://discord.com/oauth2/authorize?client_id=729640177311416421&scope=bot&permissions=8)
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Dynamo</td>
+    <td>Main Bot, Regular Updates, 80k+ Members Watching</td>
+    <td><a href="https://www.dynamobot.xyz">Website</a></td>
+  </tr>
+  <tr>
+    <td>Onni's Utilites</td>
+    <td>Custom bot for the Youtuber <a href="https://www.youtube.com/c/OnniH/featured">Onni-H</a><td>
+    <td><a href="https://discord.gg/qxr4QztfEG">Server</a></td>
+  </tr>
+</table>
 
-### 📈 My GitHub Stats:
+### My GitHub Stats:
 ![My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=DragonDev15&show_icons=true&theme=radical)
