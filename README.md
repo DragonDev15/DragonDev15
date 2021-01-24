@@ -23,7 +23,7 @@ My Projects:
   </tr>
   <tr>
     <td>Onni's Utilites</td>
-    <td>Custom bot for the Youtuber <a href="https://www.youtube.com/c/OnniH/featured">Onni-H</a><td>
+    <td>Custom bot for the Youtuber <a href="https://www.youtube.com/c/OnniH/featured">Onni-H</a></td>
     <td><a href="https://discord.gg/qxr4QztfEG">Server</a></td>
   </tr>
 </table>
