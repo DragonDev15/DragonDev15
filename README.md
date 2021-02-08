@@ -29,4 +29,4 @@ My Projects:
 </table>
 
 ### My GitHub Stats:
-![My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=DragonDev15&show_icons=true&theme=radical)
+![My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=DragonDev15&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096)
