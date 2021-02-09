@@ -1,5 +1,6 @@
 ### Hi There! 
 I'm Dragon_15. I am the Owner & Developer of Dynamo, Here is some info about me!
+
 - 🔭 I’m currently working on My Bot Dynamo! [Click Here](https://www.dynamobot.xyz/about) to read more!
 - 🌱 I’m currently learning `HTML5` & `CSS`
 - 🤔 I’m looking for help with Exploring `Python`
@@ -7,6 +8,8 @@ I'm Dragon_15. I am the Owner & Developer of Dynamo, Here is some info about me!
 - 📫 How to reach me: To reach me, Dm: `Dragon_15#0001` On Discord!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favourite number is 15
+##### Page Visits
+[![Visits Badge](https://badges.pufler.dev/visits/DragonDev15/DragonDev15)](https://badges.pufler.dev)
 
 #### About Me:
 My Projects:
