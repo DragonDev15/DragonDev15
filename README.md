@@ -31,5 +31,18 @@ My Projects:
   </tr>
 </table>
 
+<details>
+<summary><b>My Bots:</b></summary>
+
+* Dynamo
+* Dynamo Beta
+* Dynamo Premium
+* Onni's Utilites
+#### Bots I have worked on:
+* Mysterious Bot | Defunct
+* Blitz v1 | Defunct though there is a new version.
+
+</details>
+
 ### My GitHub Stats:
 ![My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=DragonDev15&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096)
